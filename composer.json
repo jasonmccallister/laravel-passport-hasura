@@ -1,0 +1,19 @@
+{
+    "name": "jasonmccallister/laravel-passport-hasura",
+    "description": "A Laravel package to make Passport JWTs Hasura compataible.",
+    "type": "library",
+    "require": {
+        "firebase/php-jwt": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason McCallister",
+            "email": "themccallister@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^3.8",
+        "phpunit/phpunit": "^8.0"
+    }
+}
